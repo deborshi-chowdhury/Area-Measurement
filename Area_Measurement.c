@@ -3,7 +3,7 @@
 #include<math.h>
 int main()
 {
-float a, b, c, d, e, f, g , h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z;
+float a, b, c, d, e, f, g , h, i, j, k, l, m, n, o, p, q, r, s;
 printf("Welcome to Land Measurement Calculator. \n");
 printf("Do you want to measure any area whether it is a triangle, rectangle, square, trapezium, rhombus, parallelogram or circle? \n");
 printf("If yes, then at first please read the following details: \n");
